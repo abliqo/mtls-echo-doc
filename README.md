@@ -1,6 +1,6 @@
 # About
 
-**Mutual TLS Echo** is an online web application that requests [X509](https://en.wikipedia.org/wiki/X.509) client certificate, establishes [mutual TLS](https://en.wikipedia.org/wiki/Mutual_authentication) connection and returns information about the provided client certificate. It is useful for:
+**Mutual TLS Echo** is a web application that requests [X509](https://en.wikipedia.org/wiki/X.509) client certificate, establishes [mutual TLS](https://en.wikipedia.org/wiki/Mutual_authentication) connection and returns information about the provided client certificate. It is useful for:
 * Validating your web browser setup with hardware cryptographic devices that support smart card interface, such as classic smart cards and certain YubiKey devices
 * Getting information about client certificates, such as serial number, subject, validity period, public key information, etc
 * Programmatically validating client certificates
